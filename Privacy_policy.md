@@ -18,7 +18,9 @@ This App does not gather any information about the location of your mobile devic
 
 The free version of our app uses third-party advertising services to display ads. These services may collect and use user data, such as device ID, location, and browsing behavior, to deliver targeted advertisements. Please note that we do not collect or use this data ourselves, but we want to inform you about the practices of our advertising partners. We may share your information with third parties in the ways that are described in this privacy statement.
 Please note that the App utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the App:
+
 [Google Play Services](https://www.google.com/policies/privacy/)
+
 [Ad Mob](https://support.google.com/admob/answer/6128543?hl=en)
 
 We may disclose User Provided information:
