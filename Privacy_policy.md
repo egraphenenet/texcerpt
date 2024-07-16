@@ -27,9 +27,12 @@ Please note that the App utilizes third-party services that have their own Priva
 [Ad Mob](https://support.google.com/admob/answer/6128543?hl=en)
 
 We may disclose User Provided information:
- •	when troubleshooting or debugging
- •	as required by law, such as to comply with a subpoena, or similar legal process
- •	when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
+
+•	when troubleshooting or debugging
+
+•	as required by law, such as to comply with a subpoena, or similar legal process
+
+•	when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
 
 ## What are my opt-out rights?
 
