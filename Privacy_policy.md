@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: 27 June 2024
+Last updated: 8 August 2024
 
 This privacy policy is applicable to the “eGraphene.net Image to Text” (referred to as "the App") for mobile devices, which was developed by eGraphene.net (referred to as "Us" or “We"), as a Freemium service.
 
