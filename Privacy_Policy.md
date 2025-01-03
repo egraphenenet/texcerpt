@@ -18,8 +18,6 @@ This App does not gather any information about the location of your mobile devic
 
 ## Do third parties see and/or have access to information obtained by the App?
 
-The App utilizes third-party services, including the Gemini API, which may have access to certain data when you use the "Summaries" features (including “Youtube URL summary” and “Text summary” functions). When you use these features, the content you are summarizing within the app may be shared with the Gemini API for processing. Please note that Gemini has its own privacy policy that governs how your data is handled. For more information on how the Gemini API processes your data, please review their privacy policy here: [Gemini Apps Privacy](https://support.google.com/gemini/answer/13594961?hl=en)
-
 The free version of our app uses third-party advertising services to display ads. These services may collect and use user data, such as device ID, location, and browsing behavior, to deliver targeted advertisements. Please note that we do not collect or use this data ourselves, but we want to inform you about the practices of our advertising partners. We may share your information with third parties in the ways that are described in this privacy statement.
 
 Please note that the App utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the App:
